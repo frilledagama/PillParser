@@ -7,6 +7,7 @@ Android native application to read a pill label and save the information on a mo
 ## Pre-requisites
 
 Android SDK v29
+
 Android Build Tools v29.0.3
 
 ## Screenshots
