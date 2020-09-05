@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "43505271211",
+    "firebase_url": "https://analog-sum-288607.firebaseio.com",
+    "project_id": "analog-sum-288607",
+    "storage_bucket": "analog-sum-288607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43505271211:android:8fe89b3dd87e16999152ee",
+        "android_client_info": {
+          "package_name": "com.mh2020.android.pillparser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43505271211-6rg1mrvjb3dc5ns1lfov1skjobasndud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSIPGy24XZL8Jdy9R1rRxOrWTGAExSFPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43505271211-6rg1mrvjb3dc5ns1lfov1skjobasndud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

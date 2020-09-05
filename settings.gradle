@@ -1,0 +1,2 @@
+rootProject.name='PillParser'
+include ':app'
