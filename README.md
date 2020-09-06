@@ -18,7 +18,7 @@ Android Build Tools v29.0.3
 
 ## Screenshots
 
-![LogIn View](https://github.com/frilledagama/PillParser/blob/master/login_image.jpg?raw=true)
+![LogIn View](https://github.com/frilledagama/PillParser/img/master/login_image.jpg?raw=true)
 
 ## External Dependancies
 - Firebase for analytics, firestore and user authentication, ML(Vision)
