@@ -32,7 +32,12 @@ OCR functionality no longer works due to the following error:
 ```
 firebase-ml-vision 24.1.0 isn't compatible with google-service plugin: 4.3.3
 ```
- ### TODO:
+
+## Credits
+
+Log-In Layout: [buildbro](https://gist.github.com/buildbro)
+
+## TODO:
 
  Things that were planned but not completed for the hackathon:
  - TTS
