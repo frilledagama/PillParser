@@ -7,12 +7,14 @@ android {
 
     defaultConfig {
         applicationId "com.mh2020.android.pillparser"
-        minSdkVersion 17
+        minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        vectorDrawables.useSupportLibrary = true
     }
 
     buildTypes {
@@ -40,4 +42,14 @@ dependencies {
     implementation 'com.google.firebase:firebase-analytics:17.5.0'
     // add SDKs for any other desired Firebase products
     // https://firebase.google.com/docs/android/setup#available-libraries
+    implementation 'com.firebaseui:firebase-ui-firestore:6.3.0'
+    implementation 'com.google.firebase:firebase-auth:19.3.2'
+
+
+    implementation "androidx.recyclerview:recyclerview:1.1.0"
+    // For control over item selection of both touch and mouse driven selection
+    //implementation "androidx.recyclerview:recyclerview-selection:1.1.0-rc03"
+    implementation "androidx.cardview:cardview:1.0.0"
+
+
 }
