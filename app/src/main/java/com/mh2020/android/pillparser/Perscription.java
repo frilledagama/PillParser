@@ -12,6 +12,12 @@ class Perscription {
     //would be better
     //mb add expiration date too ZZZZZZZZ
 
+
+    //empty construstor for firebase
+    Perscription(){
+
+    }
+
     Perscription(int qty, String medicationName, String dosage, String instructions) {
         this.qty = qty;
         this.medicationName = medicationName;
