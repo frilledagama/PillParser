@@ -1,6 +1,7 @@
-# Pill Parser | MedHacks2020
+# PicPill
 
 Android native application to read a pill label and save the information on a mobile device for translation, TTS and push notifications.
+Submitted to MedHacks2020 Aging in Palce track. 2nd place winner. [Devpost page.](https://devpost.com/software/picpill)
 
 ## Installation
 
@@ -26,8 +27,7 @@ Android Build Tools v29.0.3
 - ML Kit Text Recognition for Android
 
 ## Issues
-
-OCR functionality no longer works due to the following error:
+Cloud OCR functionality no longer working due to the following error:
 
 ```
 firebase-ml-vision 24.1.0 isn't compatible with google-service plugin: 4.3.3
@@ -41,9 +41,6 @@ Log-In Layout: [buildbro](https://gist.github.com/buildbro)
 
  Things that were planned but not completed for the hackathon:
  - TTS
- - OCR 
- - User Registration
  - Translation
- - Display Firebase data as CardViews
  - Save Rx info
 
