@@ -1,7 +1,7 @@
 # PicPill
 
 Android native application to read a pill label and save the information on a mobile device for translation, TTS and push notifications.
-Submitted to MedHacks2020 Aging in Palce track. 2nd place winner. [Devpost page.](https://devpost.com/software/picpill)
+Submitted to MedHacks2020 Aging in Place track. 2nd place winner. [Devpost page.](https://devpost.com/software/picpill)
 
 ## Installation
 
